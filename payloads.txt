@@ -1,0 +1,2 @@
+GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf][crlf]
+GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]
